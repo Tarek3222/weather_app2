@@ -31,10 +31,6 @@ class ServerFailure extends Failure {
           return const ServerFailure("No internet connection");
         }
         return const ServerFailure("Unexpected error with ApiServer");
-
-      default:
-        return const ServerFailure(
-            "Something went wrong, please try again later");
     }
   }
 
