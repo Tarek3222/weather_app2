@@ -84,7 +84,7 @@ class _MyAppState extends State<SplashBody>
   }
 
   void startTimer() {
-    Future.delayed(const Duration(seconds: 5), () {
+    Future.delayed(const Duration(seconds: 3), () {
       navigateToInitScreen();
     });
   }

@@ -1,4 +1,3 @@
-import 'package:device_preview/device_preview.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -19,14 +18,7 @@ void main() async {
   );
   await FirebaseApi().initNotifications();
   setup();
-  runApp(
-    DevicePreview(
-      builder: (context) {
-        return const WeatherApp();
-      },
-      enabled: true,
-    ),
-  );
+  runApp(const WeatherApp());
 }
 
 class WeatherApp extends StatelessWidget {
@@ -47,8 +39,6 @@ class WeatherApp extends StatelessWidget {
           child: MaterialApp.router(
             routerConfig: AppRoutes.routers,
             debugShowCheckedModeBanner: false,
-            locale: DevicePreview.locale(context),
-            builder: DevicePreview.appBuilder,
             theme: ThemeData(
               fontFamily: GoogleFonts.poppins().fontFamily,
               useMaterial3: true,

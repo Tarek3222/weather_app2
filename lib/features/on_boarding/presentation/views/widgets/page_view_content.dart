@@ -19,7 +19,7 @@ class PageViewContent extends StatelessWidget {
           isOut: isOut,
         ),
         SizedBox(
-          height: 35.h,
+          height: 65.h,
         ),
         TitlePageView(
           title: onBoardingItem.title,
