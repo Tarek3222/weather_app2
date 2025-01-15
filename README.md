@@ -24,27 +24,11 @@ This project is a starting point for a Flutter application.
 
 &nbsp;
 
-**Quran page:**
-
-&nbsp; &nbsp; &nbsp; Here you can open and read all Quran Suras by clicking on the desired one.
+**Splash screen:**
 
 &nbsp;
 
-<img src="https://raw.githubusercontent.com/Tarek3222/muslim-app/refs/heads/main/assets/light%20mode/image1.png" width="300" />
-
-
-&nbsp;
-
-
-&nbsp;
-
-**Hadeth page:**
-
-&nbsp; &nbsp; &nbsp; Here you find up to 50 Hadeth.
-
-&nbsp;
-
-<img src="https://raw.githubusercontent.com/Tarek3222/muslim-app/refs/heads/main/assets/light%20mode/image3.png" width="300" />
+<img src="https://raw.githubusercontent.com/Tarek3222/weather_app2/refs/heads/main/app%20images/splash.png" width="300" />
 
 
 &nbsp;
@@ -52,41 +36,46 @@ This project is a starting point for a Flutter application.
 
 &nbsp;
 
-**Azkar page:**
-
-&nbsp; &nbsp; &nbsp; It has Morning and evening azkar
+**onBoarding:**
 
 &nbsp;
 
-<img src="https://raw.githubusercontent.com/Tarek3222/muslim-app/refs/heads/main/assets/dark%20mode/image1.png" width="300" />
-<!-- ![image](screenshots/QuranTab.gif =250x250) -->
-
-&nbsp;
+<img src="https://raw.githubusercontent.com/Tarek3222/weather_app2/refs/heads/main/app%20images/onboarding1.png" width="300" />
 
 
-&nbsp;
-
-**Tasbeh page:**
-
-&nbsp; &nbsp; &nbsp; it has electronic sebha.
-
-&nbsp;
-
-<img src="https://raw.githubusercontent.com/Tarek3222/muslim-app/refs/heads/main/assets/dark%20mode/image4.png" width="300" />
-
+<img src="https://raw.githubusercontent.com/Tarek3222/weather_app2/refs/heads/main/app%20images/onboarding4.png" width="300" />
 
 &nbsp;
 
 
 &nbsp;
 
-**Settings page:**
-
-&nbsp; &nbsp; &nbsp; You can change application language and theme from here.
+**Home Screen:**
 
 &nbsp;
 
-<img src="https://raw.githubusercontent.com/Tarek3222/muslim-app/refs/heads/main/assets/light%20mode/image5.png" width="300" />
+<img src="https://raw.githubusercontent.com/Tarek3222/weather_app2/refs/heads/main/app%20images/home1.png" width="300" />
+<img src="https://raw.githubusercontent.com/Tarek3222/weather_app2/refs/heads/main/app%20images/home3.png" width="300" />
+<img src="https://raw.githubusercontent.com/Tarek3222/weather_app2/refs/heads/main/app%20images/home2.png" width="300" />
+<img src="https://raw.githubusercontent.com/Tarek3222/weather_app2/refs/heads/main/app%20images/home_with_error.png" width="300" />
+<img src="https://raw.githubusercontent.com/Tarek3222/weather_app2/refs/heads/main/app%20images/homw_with_refresh.png" width="300" />
+
+&nbsp;
+
+**Get current location:**
+
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/Tarek3222/weather_app2/refs/heads/main/app%20images/get_current_location.png" width="300" />
+
+
+&nbsp;
+
+**Search Screen:**
+
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/Tarek3222/weather_app2/refs/heads/main/app%20images/search.png" width="300" />
 
 
 &nbsp;
